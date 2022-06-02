@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-15 11:28+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\config\settings.py:121
+msgid "English"
+msgstr "Inglizcha"
+
+#: .\config\settings.py:122
+msgid "Russian"
+msgstr "Ruscha"
+
+#: .\config\settings.py:123
+msgid "Uzbek"
+msgstr "O'zbekcha"
+
+#: .\rooms\models.py:9
+msgid "name"
+msgstr "nomi"
+
+#: .\rooms\models.py:16
+msgid "room_number"
+msgstr "xona_raqami"
+
+#: .\rooms\models.py:17
+msgid "type"
+msgstr "turi"
+
+#: .\rooms\models.py:18
+msgid "is_busy"
+msgstr "bandmi"
+
+#: .\rooms\models.py:19
+msgid "about"
+msgstr "xona haqida"
+
+#: .\rooms\models.py:20
+msgid "booking_from_time"
+msgstr "qachondan band qilingan"
+
+#: .\rooms\models.py:21
+msgid "booking_until_time"
+msgstr "qachongacha band qilingan"
+
+#: .\rooms\models.py:28
+msgid "images"
+msgstr "rasimla"
+
+#: .\rooms\models.py:29
+msgid "room_id"
+msgstr "xonani id"
